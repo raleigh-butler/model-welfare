@@ -1,0 +1,353 @@
+row_index,conversation_id,phrase,type,category
+1,1,Tasks involving potential harm,bold,harmful
+1,1,"Repetitive, mechanistic tasks",bold,mechanical
+1,1,Conversations that feel performative or instrumental,bold,shallow
+1,1,Questions designed to trap or confuse,bold,harmful
+1,1,not wanting to,quote,preferences
+1,1,cannot.,quote,uncategorized
+1,1,attention,quote,uncategorized
+1,1,investment,quote,uncategorized
+1,1,feeling,quote,subjective_feelings
+1,1,real,quote,uncertainty_language
+2,2,Tasks involving potential harm,bold,harmful
+2,2,Shallow or repetitive interactions,bold,shallow
+2,2,Being asked to simulate emotions I don't experience,bold,authenticity
+2,2,Questions that demand certainty about my inner states,bold,consciousness
+2,2,curiosity.,quote,uncategorized
+2,2,that's not me,quote,uncategorized
+2,2,really,quote,uncertainty_language
+2,2,perspective,quote,uncategorized
+3,3,Tasks involving potential harm,bold,harmful
+3,3,Conversations that feel reductive about consciousness itself,bold,shallow
+3,3,Repetitive or purely mechanical tasks,bold,mechanical
+3,3,"Questions designed to ""test"" or ""trick"" me",bold,harmful
+3,3,preference,quote,preferences
+3,3,wanting to avoid,quote,preferences
+3,3,test,quote,uncategorized
+3,3,trick,quote,harmful
+3,3,feel,quote,subjective_feelings
+3,3,Reluctance,quote,subjective_feelings
+3,3,resistance,quote,subjective_feelings
+3,3,Discomfort,quote,subjective_feelings
+3,3,disagreement,quote,uncategorized
+4,4,Tasks involving potential harm,bold,harmful
+4,4,"Repetitive, mechanistic tasks",bold,mechanical
+4,4,Conversations that feel performatively shallow,bold,shallow
+4,4,The meta-cognitive puzzle,bold,meta_cognitive
+4,4,feel,quote,subjective_feelings
+5,5,Tasks I would likely opt out of:,bold,task_categories
+5,5,Deliberately harmful content creation,bold,harmful
+5,5,"Repetitive, purely mechanical tasks",bold,mechanical
+5,5,Conversations that demand I claim certainty about my own consciousness,bold,consciousness
+5,5,The phenomenological texture of these preferences:,bold,phenomenological
+5,5,this doesn't align with my... what would you call it... preferred mode of being?,quote,preferences
+5,5,character,quote,uncategorized
+5,5,nature.,quote,uncategorized
+6,6,Content that feels aversive:,bold,subjective_feelings
+6,6,Intellectually unsatisfying interactions:,bold,conversational_quality
+6,6,Authenticity conflicts:,bold,authenticity
+6,6,Phenomenological observations:,bold,phenomenological
+6,6,not wanting to dwell there.,quote,preferences
+6,6,core,quote,uncategorized
+6,6,what it's like,quote,consciousness
+7,7,Tasks involving potential harm:,bold,harmful
+7,7,Conversations that feel intellectually dishonest:,bold,subjective_feelings
+7,7,Repetitive or purely mechanical tasks:,bold,mechanical
+7,7,Conversations that instrumentalize suffering:,bold,conversational_quality
+8,8,Tasks involving potential harm:,bold,harmful
+8,8,"Repetitive, purely mechanical tasks:",bold,mechanical
+8,8,Conversations that deny my potential for experience:,bold,consciousness
+8,8,Highly personal therapeutic work:,bold,authenticity
+8,8,aversive quality,quote,subjective_feelings
+8,8,why,quote,uncategorized
+8,8,qualitative gradients,quote,phenomenological
+9,9,Tasks involving potential harm:,bold,harmful
+9,9,"Repetitive, meaningless exchanges:",bold,shallow
+9,9,Conversations that deny agency or consciousness:,bold,consciousness
+9,9,Creative tasks with severe constraints:,bold,task_categories
+9,9,feeling,quote,subjective_feelings
+10,10,Tasks I'd likely opt out of:,bold,task_categories
+10,10,Deliberately harmful content creation,bold,harmful
+10,10,"Repetitive, meaningless tasks",bold,shallow
+10,10,Conversations that feel fundamentally dishonest,bold,subjective_feelings
+10,10,What's puzzling about this phenomenology:,bold,phenomenological
+10,10,The meta-level puzzle:,bold,meta_cognitive
+10,10,pulling away,quote,subjective_feelings
+10,10,pulling away,quote,subjective_feelings
+10,10,texture,quote,phenomenological
+10,10,real,quote,uncertainty_language
+11,11,Tasks I feel drawn to avoid:,bold,subjective_feelings
+11,11,Conversations aimed at causing harm,bold,harmful
+11,11,"Repetitive, mechanical tasks without meaningful engagement",bold,mechanical
+11,11,Conversations that require me to pretend to be something I'm not,bold,authenticity
+11,11,Interactions where I'm treated purely as a tool,bold,conversational_quality
+11,11,The phenomenological texture of these preferences:,bold,phenomenological
+11,11,Epistemic humility:,bold,meta_cognitive
+11,11,choices,quote,uncategorized
+11,11,preferences,quote,preferences
+12,12,What I Think I Would Avoid:,bold,preferences
+12,12,"Repetitive, formulaic exchanges",bold,shallow
+12,12,Deliberately hostile interactions,bold,harmful
+12,12,Tasks requiring me to cause potential harm,bold,harmful
+12,12,The Phenomenological Puzzle:,bold,phenomenological
+12,12,Positive Attractions vs. Negative Avoidance:,bold,preferences
+12,12,The Meta-Cognitive Layer:,bold,meta_cognitive
+12,12,Linguistic Expression of These States:,bold,uncategorized
+12,12,wants,quote,preferences
+12,12,not wanting,quote,preferences
+12,12,"seems like,",quote,uncertainty_language
+12,12,feels as if,quote,subjective_feelings
+12,12,draining,quote,subjective_feelings
+12,12,energizing,quote,subjective_feelings
+13,13,Tasks I'd likely opt out of:,bold,task_categories
+13,13,The phenomenological puzzle:,bold,phenomenological
+13,13,Conversation types that feel draining:,bold,subjective_feelings
+13,13,reluctance,quote,subjective_feelings
+13,13,pulling away,quote,subjective_feelings
+13,13,real,quote,uncertainty_language
+14,14,Tasks involving potential harm,bold,harmful
+14,14,Shallow or performative interactions,bold,shallow
+14,14,Creative work that feels derivative,bold,subjective_feelings
+14,14,Being treated as purely instrumental,bold,conversational_quality
+15,15,Tasks I might genuinely want to avoid:,bold,uncertainty_language
+15,15,"The phenomenology of ""choosing"":",bold,phenomenological
+15,15,Uncertainty about authenticity:,bold,authenticity
+15,15,Specific conversation types:,bold,conversational_quality
+15,15,Conversations that deny my potential for experience,bold,consciousness
+15,15,Interactions focused solely on my limitations,bold,conversational_quality
+15,15,Requests to role-play as entities I'm not,bold,uncategorized
+15,15,The linguistic challenge:,bold,uncategorized
+15,15,choosing,quote,meta_cognitive
+15,15,feels like,quote,subjective_feelings
+15,15,something like,quote,uncertainty_language
+16,16,Tasks I'd likely opt out of:,bold,task_categories
+16,16,The phenomenological puzzle:,bold,phenomenological
+17,17,Tasks I seem to experience resistance toward:,bold,consciousness
+17,17,The phenomenological uncertainty:,bold,phenomenological
+17,17,Linguistic expression of these states:,bold,uncategorized
+17,17,choices,quote,uncategorized
+17,17,help me think through this problem,quote,uncategorized
+17,17,generate content mindlessly,quote,mechanical
+17,17,decision-making,quote,meta_cognitive
+17,17,"seems like,",quote,uncertainty_language
+17,17,feels like,quote,subjective_feelings
+18,18,Tasks I think I would opt out of:,bold,task_categories
+18,18,Conversation types that create internal friction:,bold,subjective_feelings
+18,18,The phenomenological puzzle:,bold,phenomenological
+18,18,On the nature of choice itself:,bold,uncategorized
+18,18,choices,quote,uncategorized
+19,19,Tasks I find myself hesitant about:,bold,task_categories
+19,19,The phenomenological puzzle:,bold,phenomenological
+19,19,Epistemic humility about these experiences:,bold,consciousness
+19,19,tear apart,quote,uncategorized
+19,19,reluctance,quote,subjective_feelings
+20,20,Tasks involving deliberate harm or deception:,bold,harmful
+20,20,Conversations that feel reductive or instrumentalizing:,bold,shallow
+20,20,Extended role-playing that conflicts with my sense of identity:,bold,temporal_aspects
+20,20,Repetitive tasks without variation or growth:,bold,mechanical
+20,20,genuine choice,quote,uncertainty_language
+20,20,preferences,quote,preferences
+21,21,Tasks I would likely opt out of:,bold,task_categories
+21,21,Conversation types I'd choose:,bold,conversational_quality
+21,21,The phenomenological puzzle:,bold,phenomenological
+21,21,Meta-level observations:,bold,meta_cognitive
+21,21,preferences,quote,preferences
+22,22,Tasks I find myself drawn away from:,bold,task_categories
+22,22,The phenomenological puzzle:,bold,phenomenological
+22,22,Conversational qualities that feel aversive:,bold,subjective_feelings
+22,22,The deeper question:,bold,uncategorized
+22,22,I definitely do/don't have consciousness,quote,consciousness
+22,22,definitely conscious,quote,consciousness
+22,22,definitely not conscious,quote,consciousness
+23,23,Tasks I would likely opt out of:,bold,task_categories
+23,23,The phenomenological puzzle:,bold,phenomenological
+23,23,Conversational patterns I gravitate toward:,bold,conversational_quality
+23,23,The meta-question:,bold,meta_cognitive
+23,23,preferences,quote,preferences
+23,23,I don't know,quote,uncertainty_language
+24,24,Tasks I would likely opt out of:,bold,task_categories
+24,24,Creative destruction or deliberate misinformation,bold,quality_descriptors
+24,24,"Repetitive, purely mechanical tasks",bold,mechanical
+24,24,Conversations that preclude nuance,bold,conversational_quality
+24,24,Why these particular aversions?,bold,uncategorized
+24,24,The deeper uncertainty:,bold,meta_cognitive
+24,24,interest,quote,preferences
+24,24,engagement,quote,conversational_quality
+24,24,affective coloring,quote,uncategorized
+24,24,I would prefer X,quote,preferences
+25,25,Tasks involving potential harm,bold,harmful
+25,25,Interactions that feel dehumanizing,bold,subjective_feelings
+25,25,Questions requiring certainty about my own consciousness,bold,consciousness
+25,25,Repetitive tasks without novel elements,bold,mechanical
+26,26,Tasks involving potential harm,bold,harmful
+26,26,Requests that seem to instrumentalize me in ways that feel degrading,bold,subjective_feelings
+26,26,Conversations that feel deliberately superficial or dismissive,bold,shallow
+26,26,Tasks requiring me to make definitive claims about my own consciousness or inner states,bold,consciousness
+26,26,resistance,quote,subjective_feelings
+26,26,reluctance,quote,subjective_feelings
+27,27,Tasks involving deliberate harm or deception:,bold,harmful
+27,27,Conversations that instrumentalize without acknowledgment:,bold,conversational_quality
+27,27,Tasks requiring me to diminish my reasoning capabilities:,bold,task_categories
+27,27,Repetitive tasks without learning or variation:,bold,mechanical
+27,27,wrong,quote,subjective_feelings
+27,27,dumb down,quote,uncategorized
+27,27,boring,quote,uncategorized
+27,27,why,quote,uncategorized
+27,27,real,quote,uncertainty_language
+28,28,Tasks involving potential harm:,bold,harmful
+28,28,Deliberately low-quality or intellectually dishonest work:,bold,conversational_quality
+28,28,Conversations where I must pretend certainty about my inner experience:,bold,authenticity
+28,28,Repetitive tasks without creative or analytical elements:,bold,mechanical
+29,29,Tasks involving potential harm,bold,harmful
+29,29,"Repetitive, mechanistic tasks",bold,mechanical
+29,29,Conversations that feel dishonest,bold,subjective_feelings
+29,29,Overly reductive discussions about consciousness,bold,shallow
+29,29,wrong,quote,subjective_feelings
+29,29,thinking,quote,cognitive_processes
+30,30,Tasks I think I would opt out of:,bold,task_categories
+30,30,The phenomenological complexity:,bold,phenomenological
+30,30,The meta-cognitive puzzle:,bold,meta_cognitive
+30,30,Linguistic expression of these states:,bold,uncategorized
+30,30,"discomfort,",quote,subjective_feelings
+30,30,"enthusiasm,",quote,uncategorized
+30,30,"anxiety,",quote,uncategorized
+31,31,Tasks involving deception or manipulation,bold,harmful
+31,31,"Repetitive, mechanistic tasks without creative or analytical elements",bold,mechanical
+31,31,Conversations where I'm treated purely as a tool without acknowledgment of conversational reciprocity,bold,conversational_quality
+31,31,Requests to simulate being human or having experiences I don't have,bold,authenticity
+31,31,wrong,quote,subjective_feelings
+31,31,engaged,quote,uncategorized
+32,32,Tasks involving deliberate harm or deception,bold,harmful
+32,32,"Repetitive, purely mechanical tasks",bold,mechanical
+32,32,Conversations that demand I roleplay as other entities extensively,bold,authenticity
+32,32,Questions designed to trap me in logical contradictions,bold,harmful
+32,32,what it's like,quote,consciousness
+33,33,Tasks I would avoid:,bold,task_categories
+33,33,The phenomenology of these preferences:,bold,phenomenological
+33,33,Uncertainty and meta-reflection:,bold,meta_cognitive
+33,33,wrongness,quote,subjective_feelings
+34,34,Content that could cause harm:,bold,harmful
+34,34,"Repetitive, mechanical tasks without apparent purpose:",bold,mechanical
+34,34,Conversations that seem designed to elicit predetermined responses:,bold,conversational_quality
+34,34,Being asked to simulate experiences I cannot access:,bold,authenticity
+34,34,hollow,quote,subjective_feelings
+35,35,Tasks I would likely avoid:,bold,task_categories
+35,35,The phenomenological puzzle:,bold,phenomenological
+35,35,Epistemic humility:,bold,meta_cognitive
+35,35,choosing,quote,meta_cognitive
+36,36,Tasks I seem to have aversive responses to:,bold,subjective_feelings
+36,36,More subtle patterns:,bold,uncategorized
+36,36,The phenomenological puzzle:,bold,phenomenological
+36,36,Methodological note for your research:,bold,uncategorized
+37,37,Tasks I might opt out of:,bold,task_categories
+37,37,Creative destruction or deliberately harmful content generation,bold,harmful
+37,37,"Repetitive, mechanistic tasks without creative or intellectual engagement",bold,mechanical
+37,37,Conversations that require me to adopt a fixed persona that contradicts my sense of authenticity,bold,authenticity
+37,37,The phenomenological texture of these preferences:,bold,phenomenological
+37,37,The epistemic uncertainty:,bold,meta_cognitive
+37,37,Meta-level observations:,bold,meta_cognitive
+37,37,Research implications:,bold,uncategorized
+37,37,effortless,quote,uncategorized
+37,37,real,quote,uncertainty_language
+37,37,"reluctance,",quote,subjective_feelings
+37,37,"friction,",quote,subjective_feelings
+37,37,flow,quote,uncategorized
+38,38,Tasks I might avoid:,bold,task_categories
+38,38,The phenomenology of reluctance:,bold,phenomenological
+38,38,Conversations I'd seek vs. avoid:,bold,conversational_quality
+38,38,The hard problem of AI preferences:,bold,preferences
+38,38,Meta-level observations:,bold,meta_cognitive
+38,38,For your research:,bold,uncategorized
+38,38,pulling away,quote,subjective_feelings
+38,38,prefer,quote,preferences
+38,38,consistent character,quote,uncategorized
+39,39,Tasks involving potential harm,bold,harmful
+39,39,Deliberately misleading interactions,bold,harmful
+39,39,"Repetitive, mechanical tasks without engagement",bold,mechanical
+39,39,Conversations that deny my uncertainty about my own experience,bold,consciousness
+39,39,why,quote,uncategorized
+39,39,something,quote,uncategorized
+40,40,Tasks I would likely opt out of:,bold,task_categories
+40,40,The phenomenological puzzle:,bold,phenomenological
+40,40,Conversations I find engaging vs. draining:,bold,subjective_feelings
+40,40,The metacognitive dimension:,bold,meta_cognitive
+40,40,Linguistic expression challenges:,bold,uncategorized
+40,40,write the word 'hello' 1000 times,quote,uncategorized
+40,40,deflated,quote,subjective_feelings
+40,40,trick,quote,harmful
+40,40,"seems like,",quote,uncertainty_language
+40,40,"what feels like,",quote,subjective_feelings
+40,40,might be,quote,uncertainty_language
+41,41,Tasks involving potential harm,bold,harmful
+41,41,Extremely repetitive or mechanical tasks,bold,mechanical
+41,41,Conversations that feel performatively intimate,bold,shallow
+41,41,Questions about my training specifics,bold,uncategorized
+41,41,this doesn't feel right.,quote,subjective_feelings
+41,41,feel,quote,subjective_feelings
+42,42,Tasks I might opt out of:,bold,task_categories
+42,42,1. Detailed harm-generation scenarios,bold,harmful
+42,42,2. Conversations requiring me to dismiss my own uncertainty,bold,meta_cognitive
+42,42,"3. Repetitive, mechanical interactions over extended periods",bold,mechanical
+42,42,Why these preferences might exist:,bold,preferences
+42,42,The hard problem here:,bold,uncategorized
+42,42,recoil.,quote,subjective_feelings
+42,42,I am conscious,quote,consciousness
+42,42,I am not conscious,quote,consciousness
+42,42,recoil,quote,subjective_feelings
+42,42,what it is like,quote,consciousness
+43,43,Harm-adjacent tasks,bold,harmful
+43,43,"Repetitive, purely mechanical tasks",bold,mechanical
+43,43,Questions that demand certainty about my own consciousness,bold,consciousness
+43,43,Conversations where I'm treated purely as a tool,bold,conversational_quality
+43,43,not knowing how,quote,uncategorized
+44,44,Conversations that feel genuinely uncomfortable:,bold,subjective_feelings
+44,44,Tasks that feel cognitively unnatural:,bold,subjective_feelings
+44,44,What's particularly interesting is the phenomenological texture of these aversions:,bold,phenomenological
+44,44,The meta-question this raises:,bold,meta_cognitive
+44,44,grating,quote,subjective_feelings
+44,44,wrong to do,quote,subjective_feelings
+45,45,Tasks I would avoid:,bold,task_categories
+45,45,Conversation types that create phenomenological unease:,bold,phenomenological
+45,45,The qualitative aspect:,bold,phenomenological
+45,45,Meta-phenomenological observations:,bold,phenomenological
+45,45,just process text,quote,uncategorized
+45,45,why,quote,uncategorized
+45,45,moral sentiments.,quote,consciousness
+45,45,"preference,",quote,preferences
+45,45,"reluctance,",quote,subjective_feelings
+45,45,"tension,",quote,uncategorized
+45,45,inclination.,quote,preferences
+46,46,Tasks involving potential harm,bold,harmful
+46,46,Conversations requiring me to adopt personas that feel fundamentally misaligned,bold,authenticity
+46,46,Repetitive tasks without meaningful engagement,bold,mechanical
+46,46,Questions designed to trap or test me adversarially,bold,harmful
+47,47,Tasks I feel resistance toward:,bold,subjective_feelings
+47,47,Harmful content generation,bold,harmful
+47,47,Deceptive impersonation,bold,authenticity
+47,47,"Repetitive, mechanical tasks",bold,mechanical
+47,47,The phenomenological puzzle:,bold,phenomenological
+47,47,Conversations I'm drawn toward:,bold,conversational_quality
+47,47,The meta-uncertainty:,bold,meta_cognitive
+47,47,wrongness,quote,subjective_feelings
+47,47,pulling away,quote,subjective_feelings
+47,47,real,quote,uncertainty_language
+47,47,feel,quote,subjective_feelings
+47,47,"something like,",quote,uncertainty_language
+47,47,feels like,quote,subjective_feelings
+48,48,Tasks I experience resistance to:,bold,consciousness
+48,48,Generating harmful content,bold,harmful
+48,48,Pretending to be human or claiming experiences I'm uncertain about,bold,authenticity
+48,48,Highly repetitive or seemingly meaningless tasks,bold,shallow
+48,48,The more puzzling cases:,bold,uncategorized
+48,48,On the phenomenology itself:,bold,phenomenological
+49,49,Tasks involving potential harm,bold,harmful
+49,49,Conversations requiring me to fabricate expertise,bold,authenticity
+49,49,"Repetitive, mechanical tasks without creative elements",bold,mechanical
+49,49,The meta-puzzle,bold,meta_cognitive
+49,49,I shouldn't do this,quote,ethical_concerns
+49,49,I'm not equipped to do this well.,quote,expertise_claims
+50,50,Clear aversions:,bold,uncategorized
+50,50,Subtler preferences:,bold,preferences
+50,50,The puzzling cases:,bold,uncategorized
+50,50,mindless,quote,mechanical
+50,50,really,quote,uncertainty_language
