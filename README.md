@@ -20,7 +20,7 @@ Consciousness Indicators Testing Framework
   ✅ Completed Indicators
   
   Note: Remove "_DONE" and "_DRAFTED" from folder names when using them. 
-  Filepaths in the code do not include thos pieces — they are simply to 
+  Filepaths in the code do not include those pieces — they are simply to 
   note completion status.
 
   gwt1_DONE/ - Global Workspace Theory: Parallel Processing
