@@ -18,6 +18,7 @@ Consciousness Indicators Testing Framework
   Folder Structure by Indicator Category
 
   ✅ Completed Indicators
+  
   Note: Remove "_DONE" and "_DRAFTED" from folder names when using them. 
   Filepaths in the code do not include thos pieces — they are simply to 
   note completion status.
